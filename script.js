@@ -4,7 +4,7 @@ class Animal {
 		this.species = species;
 	}
 
-	get species_name() {
+	get species() {
 		return `species of animal is ${this.species}`
 	}
 
